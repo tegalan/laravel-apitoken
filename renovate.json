@@ -1,6 +1,7 @@
 {
+  "automerge": true,
+  "requiredStatusChecks": null,
   "extends": [
     "config:base"
-  ],
-  "automerge": true
+  ]
 }
